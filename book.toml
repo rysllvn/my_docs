@@ -1,0 +1,6 @@
+[book]
+authors = ["Ryan Sullivan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My Documentation"
